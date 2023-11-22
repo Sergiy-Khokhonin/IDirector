@@ -17,10 +17,10 @@
                             <a class = "nav-link active" aria-current = "page" href = "index.php">Главная</a>
                             </li>
                             <li class = "nav-item">
-                            <a class = "nav-link" href = "registration.php">Регистрация</a>
+                            <a class = "nav-link" href = "registr.php">Регистрация</a>
                             </li>
                             <li class = "nav-item">
-                            <a class = "nav-link" href = "login.php">Войти</a>
+                            <a class = "nav-link" href = "autoriz.php">Войти</a>
                             </li>
                         </ul>
                         </div>
