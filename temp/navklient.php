@@ -24,16 +24,16 @@ $role  =  $_SESSION['role'];
                             ?>
                             </li>
                             <li class = "nav-item">
-                            <a class = "nav-link active" aria-current = "page" href = "klient.php">Главная</a>
+                            <a class = "nav-link active" aria-current = "page" href = "index.php">Главная</a>
                             </li>
                             <li class = "nav-item">
-                            <a class = "nav-link" href = "tovary.php">Товары</a>
+                            <a class = "nav-link" href = ".php">Товары</a>
                             </li>      
                              <li class = "nav-item">
-                            <a class = "nav-link" href = "dobavzakaz.php">Оформить заказ</a>
+                            <a class = "nav-link" href = ".php">Оформить заказ</a>
                             </li>                           
                             <li class = "nav-item">
-                            <a class = "nav-link" href = "moizakazy.php">Мои заказы</a>
+                            <a class = "nav-link" href = ".php">Мои заказы</a>
                             </li>
                             <li class = "nav-item">
                             <a class = "nav-link" href = "logout.php">Выйти</a>
