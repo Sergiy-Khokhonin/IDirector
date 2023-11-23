@@ -6,7 +6,7 @@
                    <nav class = "navbar navbar-expand-lg navbar-dark  text-white bg-dark">
                     <div class = "container-fluid">
                     <a class = "navbar-brand" href = "#">
-                            <img src = "img/karpukhin.jpg" width = "100" height = "100" alt = "Фотография">
+                            <img src = "" width = "100" height = "100" alt = "Фотография">
                         </a>
                         <button class = "navbar-toggler" type = "button" data-bs-toggle = "collapse" data-bs-target = "#navbarNav" aria-controls = "navbarNav" aria-expanded = "false" aria-label = "Toggle navigation">
                         <span class = "navbar-toggler-icon"></span>
@@ -17,10 +17,10 @@
                             <a class = "nav-link active" aria-current = "page" href = "index.php">Главная</a>
                             </li>
                             <li class = "nav-item">
-                            <a class = "nav-link" href = ".php">Регистрация</a>
+                            <a class = "nav-link" href = "registr.php">Регистрация</a>
                             </li>
                             <li class = "nav-item">
-                            <a class = "nav-link" href = "login.php">Войти</a>
+                            <a class = "nav-link" href = "autoriz.php">Войти</a>
                             </li>
                         </ul>
                         </div>
