@@ -2,7 +2,7 @@
 include ('temp/head.php');
 include ('temp/nav.php');
 
-include ('bd.php');
+include ('temp/bd.php');
 ?>
 <form action="" method="POST">
     <div class="container">
