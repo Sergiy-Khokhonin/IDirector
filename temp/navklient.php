@@ -11,7 +11,7 @@ $role  =  $_SESSION['role'];
                    <nav class = "navbar navbar-expand-lg navbar-dark  text-white bg-dark">
                     <div class = "container-fluid">
                     <a class = "navbar-brand" href = "#">
-                            <img src = "img/karpukhin.jpg" width = "100" height = "100" alt = "Фотография">
+                            <img src = "" width = "100" height = "100" alt = "Фотография">
                         </a>
                         <button class = "navbar-toggler" type = "button" data-bs-toggle = "collapse" data-bs-target = "#navbarNav" aria-controls = "navbarNav" aria-expanded = "false" aria-label = "Toggle navigation">
                         <span class = "navbar-toggler-icon"></span>
@@ -24,16 +24,16 @@ $role  =  $_SESSION['role'];
                             ?>
                             </li>
                             <li class = "nav-item">
-                            <a class = "nav-link active" aria-current = "page" href = "klient.php">Главная</a>
+                            <a class = "nav-link active" aria-current = "page" href = "index.php">Главная</a>
                             </li>
                             <li class = "nav-item">
-                            <a class = "nav-link" href = "tovary.php">Товары</a>
+                            <a class = "nav-link" href = ".php">Товары</a>
                             </li>      
                              <li class = "nav-item">
-                            <a class = "nav-link" href = "dobavzakaz.php">Оформить заказ</a>
+                            <a class = "nav-link" href = ".php">Оформить заказ</a>
                             </li>                           
                             <li class = "nav-item">
-                            <a class = "nav-link" href = "moizakazy.php">Мои заказы</a>
+                            <a class = "nav-link" href = ".php">Мои заказы</a>
                             </li>
                             <li class = "nav-item">
                             <a class = "nav-link" href = "logout.php">Выйти</a>
